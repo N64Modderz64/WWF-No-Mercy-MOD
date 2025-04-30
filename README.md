@@ -17,12 +17,12 @@ WWF No Mercy MOD I made inspired by WBNS 97.1 The Fan, OSU Football, and Pop Cul
 
 8 - Next you will want to open up the folder where you installed Project64, and then you should see a folder that says, "SAVE". Open that and you should see a folder that has "WWF No Mercy" in it. Open that up, then open up my RAR/ZIP file "WWF MOD - Public Master V1.0", and open up the "Project64 - Save" folder. Copy the files in there, and replace them with the existing files in the "WWF No Mercy" folder in the Project64 "SAVE" folder.
 
-8 - Now, open up Project64 again and try to open the game to test to see if it runs still.
+9 - Now, open up Project64 again and try to open the game to test to see if it runs still.
 
-9 - Assuming everything was done correctly, you should be able to startup the game and it should now work. You will know if it worked if the opening text is yellow with a black background, and when you go to characters, Mike Ricordati is the first characters.
+10 - Assuming everything was done correctly, you should be able to startup the game and it should now work. You will know if it worked if the opening text is yellow with a black background, and when you go to characters, Mike Ricordati is the first characters.
 
-10 - I suggest you mess around with the graphic settings and controller settings to get everything setup before trying to play. The game can be finnecky at times, but with the correct graphic settings, it should run real smooth.
+11 - I suggest you mess around with the graphic settings and controller settings to get everything setup before trying to play. The game can be finnecky at times, but with the correct graphic settings, it should run real smooth.
 
-10 - I have uploaded a youtube video going over this process, so if you had issues following these instructions, refer to the video as backup.
+12 - I have uploaded a youtube video going over this process, so if you had issues following these instructions, refer to the video as backup.
 
-11 - Enjoy!
+13 - Enjoy!
