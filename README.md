@@ -1,7 +1,7 @@
 # WWF-No-Mercy-MOD
 WWF No Mercy MOD I made inspired by WBNS 97.1 The Fan, OSU Football, and Pop Culture. The following are steps on how to download the emulator, then find the ROM, and lastly install the graphics MOD and save file.
 
-YouTube Walkthrough can be found here - https://youtu.be/WzGQUFt8nQY
+YouTube Walkthrough can be found here - 
 
 1 - You need to download the Emulator (The virtual N64). I have exclusively used Project64. I am unsure if the graphics patch will work on other emulators. As of 4/2025, they are currently on version 3.0.1. The download link can be found here https://www.pj64-emu.com/public-releases
 
@@ -25,6 +25,6 @@ YouTube Walkthrough can be found here - https://youtu.be/WzGQUFt8nQY
 
 11 - I suggest you mess around with the graphic settings and controller settings to get everything setup before trying to play. The game can be finnecky at times, but with the correct graphic settings, it should run real smooth.
 
-12 - I have uploaded a youtube video going over this process, so if you had issues following these instructions, refer to the video as backup. https://youtu.be/WzGQUFt8nQY
+12 - I have uploaded a youtube video going over this process, so if you had issues following these instructions, refer to the video as backup. 
 
 13 - Enjoy!
