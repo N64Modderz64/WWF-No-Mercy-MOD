@@ -3,6 +3,8 @@ WWF No Mercy MOD I made inspired by WBNS 97.1 The Fan, OSU Football, and Pop Cul
 
 YouTube Walkthrough can be found here - https://youtu.be/0t3vTTQw0Ds
 
+YouTube Preview can be found here - https://youtu.be/gmeWBf2A1xo
+
 1 - You need to download the Emulator (The virtual N64). I have exclusively used Project64. I am unsure if the graphics patch will work on other emulators. As of 4/2025, they are currently on version 3.0.1. The download link can be found here https://www.pj64-emu.com/public-releases
 
 2 - You need to download the ROM (The game). I have tested this on WWF No Mercy 1.0 and 1.1 (Rev 1), and the patch worked on both. All versions I tested were the English/USA version. I am unsure if this will work on any non English/Non USA versions. Hint: if you google "Vimms Vault" you may be able to find the website that has what you're looking for in "The vault".
